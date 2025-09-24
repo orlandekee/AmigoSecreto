@@ -131,6 +131,10 @@ También se incluyen reglas para:
 2. Asegúrate de tener los archivos `index.html`, `style.css`, `app.js` y la carpeta `assets`.
 3. Abre `index.html` en tu navegador.
 4. ¡Empieza a agregar nombres y realiza el sorteo!
+6. ## 🌐 Demo en vivo
+
+Puedes ver y probar la aplicación directamente aquí:
+👉 [https://orlandekee.github.io/AmigoSecreto/](https://orlandekee.github.io/AmigoSecreto/)
 
 ## 📄 Licencia
 Este proyecto fue creado por Orlando y se distribuye bajo una licencia de uso libre. Puedes modificarlo, compartirlo y adaptarlo según tus necesidades, siempre reconociendo la autoría original.
@@ -140,5 +144,6 @@ Este proyecto fue creado por Orlando y se distribuye bajo una licencia de uso li
 Desarrollado con 💻 y dedicación por **Orlando**.
 
 ## 🙌 Agradecimientos
+
 
 Gracias a quienes probaron la app y dieron feedback. ¡Tu ayuda mejora este proyecto!.

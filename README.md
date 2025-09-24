@@ -132,6 +132,11 @@ También se incluyen reglas para:
 3. Abre `index.html` en tu navegador.
 4. ¡Empieza a agregar nombres y realiza el sorteo!
 
+## 🌐 Demo en vivo
+
+Puedes ver y probar la aplicación directamente aquí:
+👉 [https://orlandekee.github.io/AmigoSecreto/](https://orlandekee.github.io/AmigoSecreto/)
+
 ## 📄 Licencia
 Este proyecto fue creado por Orlando y se distribuye bajo una licencia de uso libre. Puedes modificarlo, compartirlo y adaptarlo según tus necesidades, siempre reconociendo la autoría original.
 
